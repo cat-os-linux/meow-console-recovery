@@ -1,6 +1,7 @@
 # Cat OS Meow Console Recovery download
 
 Coming Soon!
+Update about the site: The site is bugged af.
 
 ## Requirements to Recover the system
 
